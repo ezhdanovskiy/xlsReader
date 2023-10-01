@@ -1,9 +1,10 @@
 package record
 
 import (
-	"github.com/shakinm/xlsReader/helpers"
 	"reflect"
 	"strconv"
+
+	"github.com/ezhdanovskiy/xlsReader/helpers"
 )
 
 //BOOLERR: Cell Value, Boolean or Error

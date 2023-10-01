@@ -1,6 +1,6 @@
 package record
 
-import "github.com/shakinm/xlsReader/helpers"
+import "github.com/ezhdanovskiy/xlsReader/helpers"
 
 //INDEX: Index Record
 
