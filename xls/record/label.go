@@ -5,8 +5,9 @@ import (
 	"strings"
 	"unicode/utf16"
 
-	"github.com/ezhdanovskiy/xlsReader/helpers"
 	"golang.org/x/text/encoding/charmap"
+
+	"github.com/ezhdanovskiy/xlsReader/helpers"
 )
 
 //LABEL: Cell Value, String Constant (204h)

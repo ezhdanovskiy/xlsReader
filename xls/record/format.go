@@ -6,9 +6,10 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/ezhdanovskiy/fmtdate"
+
 	"github.com/ezhdanovskiy/xlsReader/helpers"
 	"github.com/ezhdanovskiy/xlsReader/xls/structure"
-	"github.com/metakeule/fmtdate"
 )
 
 //FORMAT: Number Format
